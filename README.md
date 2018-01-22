@@ -1,1 +1,1 @@
-# Certificate-photos
+# CertificatePhoto
